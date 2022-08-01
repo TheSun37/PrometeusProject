@@ -1,0 +1,44 @@
+body {
+   background-color: #000;
+  font-family: "Fantasy";
+  font-size:    25px;
+   text-align: center;
+   margin: 0px;
+   color: #fff
+}
+h1,{
+	line-height: 100px;
+}
+div h3  img {
+	line-height: 40px;
+	  justify-content: space-between;
+	  text-align: 100px;
+}
+ul,li {
+display:flex;
+line-width: 100px;
+justify-content: space-between;
+
+}
+ul, li, a{
+color: #FFF;
+}
+iframe {
+	display:flex;
+	justify-content: space-between; 
+	line-height: 100px;
+	line-width: 100px;
+}
+
+div h3 {
+		padding: 0;
+	margin: 0;
+	border: 0;
+	
+}
+}
+div iframe{
+		list-style: none;
+			padding: 10px;
+	border-bottom: 9px solid #fff
+}
